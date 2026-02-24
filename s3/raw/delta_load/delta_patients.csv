@@ -1,0 +1,7 @@
+patient_id,first_name,last_name,gender,date_of_birth,contact_number,address,registration_date,insurance_provider,insurance_number,email,_delta_action
+P051,Rachel,Green,F,14-03-1988,9123456780,101 Birch Lane,10-01-2024,HealthIndia,INS901234,rachel.green@mail.com,INSERT
+P052,Kevin,Harris,M,27-07-1992,8765432109,202 Cedar Blvd,12-01-2024,MedCare Plus,INS567890,kevin.harris@mail.com,INSERT
+P053,Nina,Patel,F,05-11-1979,7654321098,303 Walnut Dr,15-01-2024,PulseSecure,INS112233,nina.patel@mail.com,INSERT
+P012,Laura,Davis,F,08-12-1991,8135000099,456 Oak Ave,27-04-2023,MedCare Plus,INS104014,laura.davis@mail.com,UPDATE
+P029,David,Smith,M,15-05-2005,8923607677,101 Birch Lane,19-04-2023,HealthIndia,INS630089,david.smith@mail.com,UPDATE
+P045,Linda,Miller,F,25-04-1966,7579616535,321 Maple Dr,23-01-2021,WellnessCorp,INS701863,linda.miller@mail.com,UPDATE

@@ -1,0 +1,7 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_time,reason_for_visit,status,_delta_action
+A201,P051,D011,18-01-2024,10:00:00,Consultation,Scheduled,INSERT
+A202,P052,D012,20-01-2024,14:15:00,Checkup,Scheduled,INSERT
+A203,P053,D003,22-01-2024,09:30:00,Follow-up,Scheduled,INSERT
+A204,P012,D011,25-01-2024,11:45:00,Emergency,Completed,INSERT
+A005,P040,D003,06-07-2023,12:45:00,Emergency,Completed,UPDATE
+A015,P026,D004,15-01-2023,17:15:00,Consultation,Completed,UPDATE

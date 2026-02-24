@@ -1,0 +1,7 @@
+bill_id,patient_id,treatment_id,bill_date,amount,payment_method,payment_status,_delta_action
+B201,P051,T201,2024-01-18,1850.0,Insurance,Pending,INSERT
+B202,P052,T202,2024-01-20,3200.5,Credit Card,Pending,INSERT
+B203,P053,T203,2024-01-22,1100.75,Cash,Pending,INSERT
+B204,P012,T204,2024-01-25,2750.3,Insurance,Pending,INSERT
+B005,P040,T005,2023-07-06,620.0,Credit Card,Paid,UPDATE
+B015,P026,T015,2023-01-15,980.0,Insurance,Paid,UPDATE

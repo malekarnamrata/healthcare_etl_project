@@ -1,0 +1,6 @@
+doctor_id,first_name,last_name,specialization,phone_number,years_experience,hospital_branch,email,_delta_action
+D011,Priya,Mehta,Cardiology,9876543210,8,Westside Clinic,dr.priya.mehta@hospital.com,INSERT
+D012,Nathan,Clark,Orthopaedics,7654321876,12,Eastside Clinic,dr.nathan.clark@hospital.com,INSERT
+D003,Jane,Smith,Pediatrics,8737740598,20,Central Hospital,dr.jane.smith@hospital.com,UPDATE
+D007,Robert,Davis,Oncology,8217493115,27,Eastside Clinic,dr.robert.davis@hospital.com,UPDATE
+D010,Linda,Wilson,Oncology,6176383634,22,Eastside Clinic,dr.linda.wilson@hospital.com,UPDATE

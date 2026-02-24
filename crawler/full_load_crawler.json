@@ -1,0 +1,8 @@
+{
+  "Name": "healthcare_full_crawler",
+  "Role": "HealthcareGlueRole ",
+  "DatabaseName": "healthcare_db_dev",
+  "Targets": {
+    "S3Targets": [{ "Path": "s3://healthcare-pipeline-dev/processed/" }]
+  }
+}

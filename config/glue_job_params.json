@@ -1,0 +1,14 @@
+{
+  "job_name": "healthcare-etl-job",
+  "glue_version": "4.0",
+  "python_version": "3",
+  "worker_type": "G.1X",
+  "number_of_workers": 2,
+
+  "job_parameters": {
+    "--SOURCE_BUCKET": "healthcare-pipeline-dev",
+    "--TARGET_BUCKET": "healthcare-pipeline-dev",
+    "--ENVIRONMENT": "dev",
+    "--SNS_TOPIC_ARN": "arn:aws:sns:ap-south-1:123456789012:healthcare-etl-notifications"
+  }
+}

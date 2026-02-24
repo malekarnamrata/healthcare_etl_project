@@ -1,0 +1,28 @@
+##SNS FOR FULL LOAD 
+
+Full Load Completed
+
+PATIENTS: 50
+DOCTORS: 10
+APPOINTMENTS: 200
+TREATMENTS: 200
+BILLING: 200
+
+Total Records: 660
+Successful Tables: 5/5
+Completed At: 2026-02-17 11:27:27
+
+---------------------------------------------------
+
+
+##SNS for DELTA LOAD
+
+DELTA LOAD COMPLETED
+
+{
+  "patients": 6,
+  "doctors": 5,
+  "appointments": 6,
+  "treatments": 6,
+  "billing": 6
+}

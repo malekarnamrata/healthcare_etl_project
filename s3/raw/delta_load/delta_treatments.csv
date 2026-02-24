@@ -1,0 +1,7 @@
+treatment_id,appointment_id,treatment_type,description,cost,treatment_date,_delta_action
+T201,A201,X-Ray,Basic screening,1850.0,2024-01-18,INSERT
+T202,A202,MRI,Advanced protocol,3200.5,2024-01-20,INSERT
+T203,A203,Physiotherapy,Standard procedure,1100.75,2024-01-22,INSERT
+T204,A204,ECG,Advanced protocol,2750.3,2024-01-25,INSERT
+T005,A005,ECG,Standard procedure,620.0,2023-07-06,UPDATE
+T015,A015,Physiotherapy,Basic screening,980.0,2023-01-15,UPDATE
